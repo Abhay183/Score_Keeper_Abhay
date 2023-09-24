@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+nav{
+    background-color: #dda15e;
+    color: white;
+    height: 40px;
+    font-size: 25px;
+    align-items: center;
+    padding: 0 15px;
+    font-family: 'Roboto', sans-serif;
+
+}
